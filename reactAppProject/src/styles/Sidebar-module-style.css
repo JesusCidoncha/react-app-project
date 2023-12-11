@@ -1,0 +1,6 @@
+.sidebar {
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
